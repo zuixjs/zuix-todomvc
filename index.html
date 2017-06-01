@@ -9,17 +9,17 @@
 </head>
 <body>
 
-<!-- load the todos component -->
-<div data-ui-load="components/todos"
-     data-ui-options="todosOptions"></div>
+<header>
+    <a href="https://github.com/g-labs-sw/zuix-todomvc"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
+</header>
 
-<div>
-    <h3>Source Code</h3>
-    <ul>
-        <li><a href="https://github.com/genielabs/zuix/tree/master/docs/examples/todomvc" target="_blank">Browse</a></li>
-        <li><a href="../zuix_todomvc_rev1.zip">Download</a></li>
-    </ul>
-</div>
+<main>
+
+    <!-- load the todos component -->
+    <div data-ui-load="components/todos"
+         data-ui-options="todosOptions"></div>
+
+</main>
 
 <footer class="info">
     <p>Double-click to edit a todo</p>
@@ -33,6 +33,6 @@
 <!-- Scripts here. Don't remove ↓ -->
 <script src="js/app.js"></script>
 <!-- ZUIX library  -->
-<script src="node_modules/zuix/build/js/zuix.min.js"></script>
+<script src="node_modules/zuix-dist/js/zuix.min.js"></script>
 </body>
 </html>

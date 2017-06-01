@@ -1,6 +1,16 @@
 # ZUIX • TodoMVC
 
-The classic [TodoMVC](http://todomvc.com/) example implemented with ZUIX.
+The classic [TodoMVC](http://todomvc.com/) example implemented as a ZUIX component.
+
+### Local testing
+
+Issue the following commands to install development dependencies
+and start the local web server (port 8080).
+
+```shell
+npm install
+npm run start
+```
 
 #### About ZUIX
 
@@ -22,7 +32,7 @@ Main features:
 
 ## Resources
 
-- [ZUIX Home and Docs](http://zuix.it)
+- [ZUIX Home and Docs](https://genielabs.github.io/zuix)
 - [Source code](https://github.com/genielabs/zuix)
 
 ### Support

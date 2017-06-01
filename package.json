@@ -1,8 +1,15 @@
 {
   "private": true,
+  "scripts": {
+    "start": "http-server ./"
+  },
   "dependencies": {
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.1",
-    "zuix": "^0.4.9-8"
+    "zuix-dist": "^0.4.9-9"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
   }
 }
+
