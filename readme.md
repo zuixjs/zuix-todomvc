@@ -2,6 +2,8 @@
 
 The classic [TodoMVC](http://todomvc.com/) example implemented as a ZUIX component.
 
+https://g-labs-sw.github.io/zuix-todomvc/
+
 #### Local testing
 
 Issue the following commands to install development dependencies
