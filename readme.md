@@ -2,7 +2,7 @@
 
 The classic [TodoMVC](http://todomvc.com/) example implemented as a ZUIX component.
 
-### Local testing
+#### Local testing
 
 Issue the following commands to install development dependencies
 and start the local web server (port 8080).
@@ -12,7 +12,12 @@ npm install
 npm run start
 ```
 
-#### About ZUIX
+#### Implementation notes
+
+Main component source code is placed into the `components` folder.
+
+
+## About ZUIX
 
 > ZUIX is a lite JavaScript framework (~11kB) for creating component-based web sites and applications.
 
@@ -30,7 +35,7 @@ Main features:
 - Integrated localization engine
 
 
-## Resources
+### Resources
 
 - [ZUIX Home and Docs](https://genielabs.github.io/zuix)
 - [Source code](https://github.com/genielabs/zuix)
@@ -39,6 +44,3 @@ Main features:
 
 - [Issues on GitHub](https://github.com/genielabs/zuix/issues)
 
-## Implementation
-
-Main component source code is placed into the `components` folder.
