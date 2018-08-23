@@ -1,8 +1,8 @@
-# ZUIX • TodoMVC
+# zUIx • TodoMVC
 
-The classic [TodoMVC](http://todomvc.com/) example implemented as a ZUIX component.
+The classic [TodoMVC](http://todomvc.com/) example implemented as a zUIx component.
 
-https://g-labs-sw.github.io/zuix-todomvc/
+https://genialabs.github.io/zuix-todomvc/
 
 #### Local testing
 
@@ -16,33 +16,23 @@ npm run start
 
 #### Implementation notes
 
-Main component source code is placed into the `components` folder.
+Main component source code is located in the `components` folder.
 
 
-## About ZUIX
+## About zUIx.js
 
-> ZUIX is a lite JavaScript framework (~11kB) for creating component-based web sites and applications.
+> zUIx.js is a lite JavaScript library (~13kB) for creating component-based websites and applications.
 
 Main features:
 - Content Manager
 - Template Engine
 - Component Manager
 - Cross-domain content/component loading
-- Lazy loading
+- Lazy-loading
 - Events, Behaviors and Hooks
 - Automatic events unbinding
 - Components and fields caching
 - Integrated resources loader
 - Integrated jQuery-like DOM helper
-- Integrated localization engine
 
-
-### Resources
-
-- [ZUIX Home and Docs](https://genielabs.github.io/zuix)
-- [Source code](https://github.com/genielabs/zuix)
-
-### Support
-
-- [Issues on GitHub](https://github.com/genielabs/zuix/issues)
-
+[zUIx Home and Docs](https://genielabs.github.io/zuix)

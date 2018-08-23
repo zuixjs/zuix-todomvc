@@ -4,12 +4,11 @@
     "start": "http-server ./"
   },
   "dependencies": {
-    "todomvc-app-css": "^2.0.0",
-    "todomvc-common": "^1.0.1",
-    "zuix-dist": "^0.4.9-11"
+    "todomvc-app-css": "^2.1.2",
+    "todomvc-common": "^1.0.5",
+    "zuix-dist": "^0.4.9-56"
   },
   "devDependencies": {
-    "http-server": "^0.9.0"
+    "http-server": "^0.11.1"
   }
 }
-
