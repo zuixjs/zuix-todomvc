@@ -2,7 +2,7 @@
 
 The classic [TodoMVC](http://todomvc.com/) example implemented as a zUIx component.
 
-https://genialabs.github.io/zuix-todomvc/
+https://genielabs.github.io/zuix-todomvc
 
 #### Local testing
 
