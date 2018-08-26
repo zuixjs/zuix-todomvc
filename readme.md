@@ -2,7 +2,7 @@
 
 The classic [TodoMVC](http://todomvc.com/) example implemented as a zUIx component.
 
-https://genielabs.github.io/zuix-todomvc
+https://zuixjs.github.io/zuix-todomvc
 
 #### Local testing
 
@@ -35,4 +35,4 @@ Main features:
 - Integrated resources loader
 - Integrated jQuery-like DOM helper
 
-[zUIx Home and Docs](https://genielabs.github.io/zuix)
+[zUIx Home and Docs](https://zuixjs.github.io/zuix)
